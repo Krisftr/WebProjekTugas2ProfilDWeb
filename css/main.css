@@ -1,48 +1,58 @@
 body,html{
     height: 100%;
-    margin:0 auto;
+    margin:auto;
 }  
 .link{
     color: darkblue;
     padding:15px 25px;
 }
 .link:hover{
-    background: orange;
+    background: salmon;
 }
 .section1{
-    background: url(../img/flat.jpg);  
+    background: url(../img/index-bg-3.jpg); 
     width: 100%;
     height: 100%;
-    text-align: center;
+    text-align:center;
 }
 .judul{
     font-family: verdana;
     font-size: 60px;
-    color: yellow;
+    color: black;
     margin: auto; 
 }
 .sub-judul{
-    font-family: monospace;
-    font-size: 40px;
+    font-family: arial; 
+    font-size: 30px;
     color: whitesmoke;
     margin: auto;
 }.sub-judul2{
-    font-family: monospace;
-    font-size: 20px;
+    font-family: arial;
+    font-size: 25px;
     color: black  ;
     margin: center;
+    text-align-last: center;
+}
+}.sub-judul3{
+    font-family: monospace;
+    font-size: 18px;
+    color:brown;
+    margin: auto
 }
 .section2{
-    background: darkred ;
+    background: #4f6622;
     padding:100px 0px
 }
 .section3{
-    background: darkgreen; 
+    background: #d2cf4a; 
     padding:100px 0px
 }
 .col-warna{
     background: beige;
 }
 .col-warna2{
-    background: orange ;
+    background: #f1b57d ;
 }
+.section4 {
+    background: url(../img/Kerja-dari-Rumah-Data-Entry-Indonesia-Tanpa-Modal.jpg) ; 
+    padding:100px 0px
